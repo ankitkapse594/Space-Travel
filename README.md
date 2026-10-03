@@ -2,7 +2,7 @@
 
 Welcome to the official web application for **Aetheris Interplanetary**, a premier 2026-era space travel agency dedicated to onboarding Martian Pioneers and Lunar Tourists.
 
-## Features
+## Features of the future
 
 - **Mission Control (Home):**
   - **Live Telemetry Ticker:** Displays real-world context on March 2026 SpaceX and NASA schedules.
