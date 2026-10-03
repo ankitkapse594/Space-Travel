@@ -16,7 +16,7 @@ Welcome to the official web application for **Aetheris Interplanetary**, a premi
   - **G-Force Simulation:** A dynamic progress bar calculating G-Force acclimation.
   - **Flight Surgeon AI:** An interactive simulated terminal chat interface capable of rendering complex Hohmann Transfer trajectory calculations.
 
-## Technology Stack
+## Technology Stack of the Project
 - **Framework:** Next.js 16 (App Router)
 - **Styling:** Tailwind CSS (v4) with custom `void-black` (#020617) & `martian-dust` (#922b21) themes and advanced glassmorphism utility classes.
 - **Animations:** Framer Motion
